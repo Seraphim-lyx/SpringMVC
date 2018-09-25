@@ -1,0 +1,15 @@
+[ERROR] 2018-08-05 10:19:03.536 [main]  - Logged by root logger: Hello this is an error
+[INFO ] 2018-08-05 10:19:03.540 [main]  - Logged by root logger: Hello World!
+[DEBUG] 2018-08-05 10:19:03.540 [main]  - Logged by root logger: Hello debug message.
+[ERROR] 2018-08-05 10:19:37.324 [main]  - Logged by root logger: Hello this is an error
+[INFO ] 2018-08-05 10:19:37.329 [main]  - Logged by root logger: Hello World!
+[DEBUG] 2018-08-05 10:19:37.329 [main]  - Logged by root logger: Hello debug message.
+[INFO ] 2018-08-05 10:19:40.680 [main] mainapp - Going to create HelloWord Obj
+[INFO ] 2018-08-05 10:19:40.995 [main] mainapp - Exiting the program
+[ERROR] 2018-08-05 10:34:23.818 [main]  - Logged by root logger: Hello this is an error
+[INFO ] 2018-08-05 10:34:23.824 [main]  - Logged by root logger: Hello World!
+[DEBUG] 2018-08-05 10:34:23.824 [main]  - Logged by root logger: Hello debug message.
+[INFO ] 2018-08-05 10:34:31.900 [main] mainapp - Going to create HelloWord Obj
+[INFO ] 2018-08-05 10:34:32.219 [main] mainapp - Exiting the program
+[INFO ] 2018-08-05 10:43:21.382 [main] mainapp - Going to create HelloWord Obj
+[INFO ] 2018-08-05 10:43:21.703 [main] mainapp - Exiting the program
